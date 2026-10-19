@@ -1,0 +1,14 @@
+{
+  "name": "dettami",
+  "displayName": "Dettami",
+  "version": "1.0.0",
+  "description": "The /dettami-prompt skill turns a request dictated with Dettami into an expert prompt for Claude Code, shows it and asks before carrying it out. La skill /dettami-prompt trasforma una richiesta dettata con Dettami in un prompt da esperto per Claude Code, te lo mostra e chiede «Procedo così?» prima di eseguirlo.",
+  "author": {
+    "name": "Litchi Solutions",
+    "url": "https://dettami.litchiserver.com"
+  },
+  "homepage": "https://dettami.litchiserver.com",
+  "repository": "https://github.com/litchisolutionssrl/dettami-skill",
+  "license": "MIT",
+  "keywords": ["dettatura", "dictation", "prompt", "voce", "voice"]
+}

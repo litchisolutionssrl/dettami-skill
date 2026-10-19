@@ -1,0 +1,17 @@
+{
+  "name": "dettami-skill",
+  "description": "Dettami for Claude Code: an expert prompt from what you dictate, written by your own Claude Code session. Dettami per Claude Code: il prompt da quello che detti, scritto dalla tua sessione di Claude Code.",
+  "owner": {
+    "name": "Litchi Solutions",
+    "url": "https://dettami.litchiserver.com"
+  },
+  "plugins": [
+    {
+      "name": "dettami",
+      "source": "./plugins/dettami",
+      "description": "The /dettami-prompt skill turns a request dictated with Dettami into an expert prompt, shows it and asks before carrying it out. La skill /dettami-prompt trasforma una richiesta dettata con Dettami in un prompt da esperto, te lo mostra e chiede prima di eseguirlo.",
+      "category": "productivity",
+      "license": "MIT"
+    }
+  ]
+}
