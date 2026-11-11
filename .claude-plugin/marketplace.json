@@ -3,7 +3,7 @@
   "description": "Dettami for Claude Code: an expert prompt from what you dictate, written by your own Claude Code session. Dettami per Claude Code: il prompt da quello che detti, scritto dalla tua sessione di Claude Code.",
   "owner": {
     "name": "Litchi Solutions",
-    "url": "https://dettami.litchiserver.com"
+    "url": "https://dettami.app"
   },
   "plugins": [
     {
